@@ -1,4 +1,4 @@
 ## Lewis n Clark
-A rust rewrite of Lewis and Clark, with many improvements. \
+Terminal based game inspired by The Oregon Trail. \
+This is a rust rewrite of [lewis-and-clark-legacy](https://github.com/barrettjflowers/lewis-and-clark-legacy), with many improvements. \
 
-https://github.com/barrettjflowers/lewis-and-clark-legacy
